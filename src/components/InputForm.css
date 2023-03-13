@@ -1,0 +1,14 @@
+.userInput {
+    padding: 10px;
+    border: 2px black solid;
+    border-radius: 15px;
+}
+
+.searchButton {
+    padding: 10px;
+    margin-left: 10px;
+    border-radius: 15px;
+    background: #49f;
+    font-weight: bold;
+    cursor: pointer;
+}

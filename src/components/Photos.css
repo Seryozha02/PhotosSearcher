@@ -1,0 +1,9 @@
+.imageDiv {
+    padding: 25px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.images {
+    flex-basis: 25%;
+}
